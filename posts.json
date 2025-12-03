@@ -1,7 +1,7 @@
 [
   {
-    "slug": "ejemplo-post",
-    "title": "Primer viaje estelar",
+    "slug": "lunas",
+    "title": "Lunas",
     "date": "2025-10-01",
     "excerpt": "Un pequeño resumen de la entrada para que se vea en el listado.",
     "image": "ejemplo.jpg"
@@ -13,4 +13,5 @@
     "excerpt": "La Reina de Etiopía.",
     "image": "cassiopea-ejemplo.jpeg"
   }
+
 ]
