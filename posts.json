@@ -2,9 +2,9 @@
   {
     "slug": "lunas",
     "title": "Lunas",
-    "date": "2025-10-01",
-    "excerpt": "Un pequeño resumen de la entrada para que se vea en el listado.",
-    "image": "ejemplo.jpg"
+    "date": "2025-12-01",
+    "excerpt": "Un viaje por las lunas de nuestro sistema solar.",
+    "image": "planetas-lunas.jpg"
   },
   {
     "slug": "cassiopea",
@@ -12,14 +12,8 @@
     "date": "2025-10-19",
     "excerpt": "La Reina de Etiopía.",
     "image": "cassiopea-ejemplo.jpeg"
-  },
-  {
-    "slug": "lunas",
-    "title": "Lunas",
-    "date": "2025-10-01",
-    "excerpt": "Un pequeño resumen de la entrada para que se vea en el listado.",
-    "image": "ejemplo.jpg"
   }
 
 ]
+
 
