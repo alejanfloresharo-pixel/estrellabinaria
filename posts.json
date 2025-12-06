@@ -12,8 +12,16 @@
     "date": "2025-10-19",
     "excerpt": "La Reina de Etiopía.",
     "image": "cassiopea-ejemplo.jpeg"
+  },
+  {
+    "slug": "adios",
+    "title": "Adiós",
+    "date": "2025-12-06",
+    "excerpt": "Mis últimos pensamientos hacia ti.",
+    "image": "la-sirena.jpg"
   }
 
 ]
+
 
 
