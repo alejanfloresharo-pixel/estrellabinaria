@@ -19,6 +19,13 @@
     "date": "2025-12-06",
     "excerpt": "Mis últimos pensamientos para ti.",
     "image": "la-sirena.jpg"
+  },
+  {
+    "slug": "artemis",
+    "title": "Proyecto Artemis",
+    "date": "2026-04-04",
+    "excerpt": "A la luna te iré a buscar.",
+    "image": "sls.jpg"
   }
 
 ]
